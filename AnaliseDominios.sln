@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.25928.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnaliseDominios", "AnaliseDominios\AnaliseDominios.csproj", "{FBAF422E-54FD-49F0-9862-F3E26EA8F950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBAF422E-54FD-49F0-9862-F3E26EA8F950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBAF422E-54FD-49F0-9862-F3E26EA8F950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBAF422E-54FD-49F0-9862-F3E26EA8F950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBAF422E-54FD-49F0-9862-F3E26EA8F950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
